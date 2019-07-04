@@ -1,0 +1,20 @@
+{
+  "name": "dad-jokes",
+  "version": "1.0.0",
+  "description": "List of bad dad jokes",
+  "author": "Suwigya Ratrhore",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
